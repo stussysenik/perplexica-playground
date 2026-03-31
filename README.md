@@ -1,11 +1,19 @@
-<div align="center">
+# perplexica-playground
 
-# Perplexica Playground
+Perplexica Playground
 
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-</div>
+
+## About
+
+📚 **Learning / Exploration** built with Multi-language.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-A multi-language learning playground with experiments and exercises.
+*Built by [@stussysenik](https://github.com/stussysenik)*
